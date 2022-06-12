@@ -3,6 +3,9 @@
 </li>
 <li>
     Ждите пока скчает все файлы.
+    
+</li>
+<li>
     Путь скачивания: /Addons install/<id_addon>
 </li>
 ![Кря!](https://i.imgur.com/aT7zYsT.png)
