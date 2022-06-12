@@ -1,0 +1,8 @@
+C:\Users\UnderKo\source\repos\SteamWorkshopDownloader\Compile\SteamWorkshopDownloaderLib.dll
+C:\Users\UnderKo\source\repos\SteamWorkshopDownloader\Compile\SteamWorkshopDownloaderLib.pdb
+C:\Users\UnderKo\source\repos\SteamWorkshopDownloader\SteamWorkshopDownloaderLib\obj\Debug\SteamWorkshopDownloaderLib.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\SteamWorkshopDownloader\SteamWorkshopDownloaderLib\obj\Debug\SteamWorkshopDownloaderLib.Properties.Resource1.resources
+C:\Users\UnderKo\source\repos\SteamWorkshopDownloader\SteamWorkshopDownloaderLib\obj\Debug\SteamWorkshopDownloaderLib.csproj.GenerateResource.cache
+C:\Users\UnderKo\source\repos\SteamWorkshopDownloader\SteamWorkshopDownloaderLib\obj\Debug\SteamWorkshopDownloaderLib.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\SteamWorkshopDownloader\SteamWorkshopDownloaderLib\obj\Debug\SteamWorkshopDownloaderLib.dll
+C:\Users\UnderKo\source\repos\SteamWorkshopDownloader\SteamWorkshopDownloaderLib\obj\Debug\SteamWorkshopDownloaderLib.pdb

@@ -1,0 +1,21 @@
+﻿<Application x:Class="SteamWorkshopDownloader.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SteamWorkshopDownloader"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+
+            <ResourceDictionary.MergedDictionaries>
+
+
+                <ResourceDictionary Source="/SteamWorkshopDownloader;component/Style/ListBox.xaml"/>
+                <ResourceDictionary Source="/SteamWorkshopDownloader;component/Style/ListBoxItem.xaml"/>
+                <ResourceDictionary Source="/SteamWorkshopDownloader;component/Style/Label.xaml"/>
+                <ResourceDictionary Source="/SteamWorkshopDownloader;component/Style/TextBox.xaml"/>
+              
+            </ResourceDictionary.MergedDictionaries>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
