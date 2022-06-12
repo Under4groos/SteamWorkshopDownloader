@@ -70,8 +70,9 @@ namespace SteamWorkshopDownloaderLib.Model
                 process.EventDataReceivedHandler += (o, e) =>
                 {
                     string DATA_ = e.Data;
-                  
-                    if(DATA_ == null || DATA_.Trim() == "-- type 'quit' to exit --" )
+                    if (DATA_ == null)
+                        return;
+                    if(DATA_.Trim() == "-- type 'quit' to exit --" )
                     {
                         IsINstalling = true;
                         if (InstallationСompleted != null)
@@ -89,7 +90,7 @@ namespace SteamWorkshopDownloaderLib.Model
         }
         public void DownloadAddon( string id  ,string id_game)
         {
-            if(id.IsBValidString() || id_game.IsBValidString())
+            if((id.IsBValidString() || id_game.IsBValidString()) && IsValid)
             {
                 process.FileName = this._install;
                 process.Args = req(id_game, id);
